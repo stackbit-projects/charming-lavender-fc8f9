@@ -1,5 +1,5 @@
 ---
-title: 'Libid Gel Funciona? '
+title: Libid Gel Funciona? Vale a Pena?
 layout: post
 categories:
   - Typography
