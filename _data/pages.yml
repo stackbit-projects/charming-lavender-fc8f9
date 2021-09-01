@@ -1,5 +1,7 @@
 pages:
-  - {name: 'About', url: 'about.html'}
-  - {name: 'Contact', url: 'contact.html'}
-  - {name: 'Archive', url: 'archive.html'}
-  - {name: 'Get YAMT', url: 'https://github.com/PandaSekh/Jekyll-YAMT'}
+  - name: Contact
+    url: contact.html
+  - name: Archive
+    url: archive.html
+  - name: Get YAMT
+    url: 'https://github.com/PandaSekh/Jekyll-YAMT'
