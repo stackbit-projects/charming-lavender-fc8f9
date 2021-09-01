@@ -1,5 +1,5 @@
 ---
-title: Libid Gel Funciona? Vale a Pena?
+title: 'Libid Gel Funciona? Análise – O que é, Benefícios e Depoimentos!'
 layout: post
 categories:
   - Typography
