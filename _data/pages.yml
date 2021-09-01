@@ -1,6 +1,4 @@
 pages:
-  - name: Contact
-    url: contact.html
   - name: Archive
     url: archive.html
   - name: Get YAMT
